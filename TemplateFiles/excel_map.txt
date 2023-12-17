@@ -1,0 +1,14 @@
+{
+    "{NAME}": "CJ1",
+    "{BIRTHDAY}": "CJ2",
+    "{AGE}": "CL2",
+    "{HISTORY}": "CJ3",
+    "{MASS}": "CJ4",
+    "{HEIGHT}": "CJ5",
+    "{ICUDATE}": "CJ6",
+    "{DXMAIN}": "CI10",
+    "{OPERATION}": "CI10",
+    "{OPERATIONDATE}": "CI10",
+    "{DXSECONDARY}": "CI10",
+    "{DOCTOR}": "CI58"
+}
